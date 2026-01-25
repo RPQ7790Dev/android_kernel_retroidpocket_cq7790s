@@ -1145,7 +1145,7 @@ PHONY += headers
 
 QCOM_DISPLAY_DRIVERS_DIR ?= display-drivers
 
-ext-mod-dir := ../sm8750-modules
+ext-mod-dir := ../cq7790s-modules
 ext-mod-dirs := \
 	$(ext-mod-dir)/qcom/opensource/audio-kernel \
 	$(ext-mod-dir)/qcom/opensource/dataipa/drivers/platform/msm \
